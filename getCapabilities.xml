@@ -277,7 +277,7 @@
 				<Title>yteyte</Title>
 				<Abstract>GH:yteyte ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/guapore/Mappia_Example/releases/download/Map_Download/yteyte.zip˸notListing˸˸maxZoom˸1</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/guapore/Mappia_Example/releases/download/Map_Download/yteyte.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-51.89803011760079" miny="-28.852388575731446" maxx="-51.89706986325849" maxy="-28.85140938125745"></LatLonBoundingBox>
@@ -297,7 +297,7 @@
 				<Title>hjhjk</Title>
 				<Abstract>GH:hjhjk ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸//github.com/guapore/Mappia_Example/releases/download/Map_Download/hjhjk.zip˸notListing˸˸maxZoom˸1</Keyword>
+					<Keyword>group˸tif˸˸˸//github.com/guapore/Mappia_Example/releases/download/Map_Download/hjhjk.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-51.89843898650055" miny="-28.85295228604114" maxx="-51.896411617389234" maxy="-28.85122705391867"></LatLonBoundingBox>
